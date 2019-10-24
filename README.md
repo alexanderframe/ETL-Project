@@ -4,7 +4,7 @@ Proposal: Our proposal for the ETL project is tracking ocean levels and global s
 
 What are your data sources: 
     Data.gss.nasa.gov, 
-    Csiro Commenwealth scientific and industrial research organization 
+    Csiro Commenwealth scientific and industrial research organization, USGS 
     
 What transformations: Merging the data; dropping unnecessary columns from csv files 
 
